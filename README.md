@@ -1,6 +1,58 @@
 # swifly_app
 
-A new Flutter project.
+🛍️ Flutter E-Commerce Application
+
+A modern and scalable E-Commerce mobile application built using Flutter with MVVM + Clean Architecture principles.
+This project showcases production-level Flutter development practices including local storage, dependency injection, API integration, state management, and responsive UI design.
+
+🚀 Features >>>>
+
+✨ Beautiful and modern UI
+🛒 Product listing & details
+🔍 Search functionality
+❤️ Wishlist management
+🛍️ Add to cart functionality
+🔐 Authentication flow
+📡 REST API Integration
+💾 Offline/local storage using Hive
+⚡ Optimized performance
+📱 Responsive design for multiple screen sizes
+🔄 State management with Stacked
+🧭 Navigation using GoRouter
+🧩 Dependency Injection using GetIt
+🏗️ MVVM with Clean Architecture
+🎯 Use Case driven architecture
+
+🏗️ Architecture Used >>>>
+
+This project follows MVVM (Model - View - ViewModel) with Clean Architecture to maintain:
+
+Scalability     
+Testability
+Maintainability
+Separation of concerns 
+
+
+Layers Included:
+
+📂 Presentation Layer
+
+UI Screens
+Widgets
+ViewModels
+
+📂 Domain Layer
+
+Use Cases
+Repository Contracts
+Business Logic
+
+📂 Data Layer
+
+API Services
+Repository Implementations
+Hive Local Database
+DTOs / Models
 
 ## Getting Started
 
